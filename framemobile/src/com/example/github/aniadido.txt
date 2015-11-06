@@ -1,3 +1,0 @@
-se actualiza el servidor
-he añadido otra linea en el servidor
-otra linea
