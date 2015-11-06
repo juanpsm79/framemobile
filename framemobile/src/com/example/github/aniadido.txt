@@ -1,3 +1,4 @@
 se actualiza el servidor
 se ha acutalizado en el servidor
 se vuelve a añadir
+se añade otra vez
