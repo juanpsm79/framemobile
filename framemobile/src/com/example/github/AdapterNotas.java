@@ -12,6 +12,10 @@ public class AdapterNotas {
 		return nota1;
 	}
 
+	public void setNota1(String nota1) {
+		this.nota1 = nota1;
+	}
+
 	public void setNota(String nota) {
 		this.nota = nota;
 	}
