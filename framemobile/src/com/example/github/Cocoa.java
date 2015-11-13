@@ -3,9 +3,9 @@ package com.example.github;
 public class Cocoa {
 
 	private String cocoa2;
-	private String champion16 = null;
-   	private String champion26 = null;
-   	private String champion36 = null;
-   	private String champion46 = null;
+	private String champion18 = null;
+   	private String champion28 = null;
+   	private String champion38 = null;
+   	private String champion48 = null;
 
 }
